@@ -25,7 +25,9 @@ Review the AdventureWorks Schema [here](https://imgur.com/a/u0m8fX6)
 Highlight at least two differences between it and your ERD. Would you change anything in yours?
 ```
 Your answer...
+The picture cannot be loaded, but I will change my diagram to make it more comprehensive to include production and HumanResources.
 ```
+
 
 # Criteria
 
