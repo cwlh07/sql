@@ -16,6 +16,7 @@ _Hint, search type 1 vs type 2 slowly changing dimensions._
 Bonus: Are there privacy implications to this, why or why not?
 ```
 Your answer...
+It is better to update the table so that we do not keep unneccessary data of customer.
 ```
 
 ## Question 4
