@@ -16,6 +16,7 @@ _Hint, search type 1 vs type 2 slowly changing dimensions._
 Bonus: Are there privacy implications to this, why or why not?
 ```
 Your answer...
+It is better to update the table so that we do not keep unneccessary data of customer.
 ```
 
 ## Question 4
@@ -24,6 +25,7 @@ Review the AdventureWorks Schema [here](https://imgur.com/a/u0m8fX6)
 Highlight at least two differences between it and your ERD. Would you change anything in yours?
 ```
 Your answer...
+The picture cannot be loaded, but I will change my diagram to make it more comprehensive to include production and HumanResources.
 ```
 
 
